@@ -1,6 +1,7 @@
+#include <stdio.h>
 #include <unistd.h>
 /**
- * main - this program print exactly the input on it
+ * main - This program print exactly the input on it
  * Return: 1 (Success)
  */
 int main(void)

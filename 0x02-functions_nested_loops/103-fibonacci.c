@@ -10,7 +10,7 @@ int main(void)
 	int i;
 	unsigned long int j, k, next, sum;
 
-	j = 11;
+	j = 1;
 	k = 2;
 	sum = 0;
 

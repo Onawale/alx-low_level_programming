@@ -3,11 +3,11 @@
 void myFunction(void) __attribute__((constructor));
 
 /**
- * myFunction - print strings before the main function
+ * myFunction - print a sentence  before the main function
  * function is executed
  */
 
-void myFuntion(void)
+void myFunction(void)
 {
 	printf("You're beat! and yet, you must allow,\n");
 	printf("I bore my house upon my back!\n");
